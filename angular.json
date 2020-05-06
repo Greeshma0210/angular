@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "stud": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "stud"
+    }
+  },
+  "defaultProject": "stud",
+  "cli": {
+    "analytics": "194194ca-2fdb-4c34-9b0a-b6c451b238b7"
+  }
 }
